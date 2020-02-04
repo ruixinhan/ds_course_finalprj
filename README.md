@@ -1,7 +1,9 @@
 dscourse
 ==============================
+Ruixin Han
+This is the Applied Data Science course Assignment.
+Create a directory for my data science course project with a standard project template using cookiecutter package. Then push it to Github.
 
-Create a directory for my data science course project with a standard project template using cookiecutter package
 
 Project Organization
 ------------
