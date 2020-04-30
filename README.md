@@ -1,8 +1,6 @@
-dscourse
+ds_course_finalprj
 ==============================
-Ruixin Han
-This is the Applied Data Science course Assignment.
-Create a directory for my data science course project with a standard project template using cookiecutter package. Then push it to Github.
+This is Ruixin's final project for t81_577_datascience course at Washington Univeristy. 
 
 
 Project Organization
