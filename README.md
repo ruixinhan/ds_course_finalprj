@@ -3,6 +3,15 @@ ds_course_finalprj
 This is Ruixin's final project for t81_577_datascience course at Washington Univeristy. 
 
 
+The datasets were downloaded from https://www.kaggle.com/c/tweet-sentiment-extraction. They are datasets in an ongoing kaggle competition called Tweet Sentiment Extraction. However, this competition is not like traditional sentiment analysis competitions asking for sentiment scores, it asked us to extract part of the tweet (word or phrase) that reflects the sentiment.
+
+Caution: I don't use these datasets to do the tasks of what kaggle asked, because I don't think the selected texts in the trainning data set make sense(there are a lot of similar complains among competitors). But I really like the datasets. Therefore, I use these datasets to build supervised sentiment classifiers.
+
+This project is mainly about sentiment analysis. It is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis allows businesses to identify customer sentiment toward products, brands or services in online conversations and feedback.
+
+The essence of sentiment analysis is text (multi) classification. In my datasets, both the train and the test are well labled with whether the twitter text is positive, neutral or negative. I will build supervised models to classify them from scratch.
+
+
 Project Organization
 ------------
 
