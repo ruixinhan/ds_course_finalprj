@@ -20,7 +20,7 @@ Project Organization
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── train.csv      <- The train dataset.
-    │   ├── test.csv       <- The test dataset.
+    │   └── test.csv       <- The test dataset.
     │      
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
