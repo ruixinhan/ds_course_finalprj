@@ -2,7 +2,7 @@ ds_course_finalprj
 ==============================
 This is Ruixin's final project for t81_577_datascience course at Washington Univeristy. 
 
-The most important file is the notebook [sentiment_analysis.ipynb](https://github.com/ruixinhan/ds_course_finalprj/blob/master/notebooks/sentiment_analysis.ipynb)
+The most important file is the notebook [sentiment_analysis.ipynb](https://github.com/ruixinhan/ds_course_finalprj/blob/master/notebooks/sentiment_analysis.ipynb). And the datasets I used are [train.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/train.csv) and [test.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/test.csv).
 
 The datasets were downloaded from https://www.kaggle.com/c/tweet-sentiment-extraction. They are datasets in an ongoing kaggle competition called Tweet Sentiment Extraction. However, this competition is not like traditional sentiment analysis competitions asking for sentiment scores, it asked us to extract part of the tweet (word or phrase) that reflects the sentiment.
 
