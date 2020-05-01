@@ -4,9 +4,7 @@ This is Ruixin's final project for t81_577_datascience course at Washington Univ
 
 
 
-!!!Important
-
-The most important file is the notebook [sentiment_analysis.ipynb](https://github.com/ruixinhan/ds_course_finalprj/blob/master/notebooks/sentiment_analysis.ipynb). And the datasets I used are [train.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/train.csv) and [test.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/test.csv).
+!!!Important: The most important file is the notebook [sentiment_analysis.ipynb](https://github.com/ruixinhan/ds_course_finalprj/blob/master/notebooks/sentiment_analysis.ipynb). And the datasets I used are [train.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/train.csv) and [test.csv](https://github.com/ruixinhan/ds_course_finalprj/blob/master/data/test.csv).
 
 
 
