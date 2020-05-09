@@ -1,6 +1,6 @@
 ds_course_finalprj
 ==============================
-This is Ruixin's final project for t81_577_datascience course at Washington Univeristy. 
+This is Ruixin's final project for t81_577_datascience course at Washington University. 
 
 
 
